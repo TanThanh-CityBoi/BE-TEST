@@ -1,0 +1,19 @@
+{
+  "name": "be-test",
+  "version": "1.0.0",
+  "description": "back-end intern test _ the new tech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanThanh-CityBoi/BE-TEST.git"
+  },
+  "author": "tanthanh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanThanh-CityBoi/BE-TEST/issues"
+  },
+  "homepage": "https://github.com/TanThanh-CityBoi/BE-TEST#readme"
+}

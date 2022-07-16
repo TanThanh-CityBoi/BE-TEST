@@ -4,7 +4,7 @@
   "description": "back-end intern test _ the new tech",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/TanThanh-CityBoi/BE-TEST/issues"
   },
-  "homepage": "https://github.com/TanThanh-CityBoi/BE-TEST#readme"
+  "homepage": "https://github.com/TanThanh-CityBoi/BE-TEST#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.19"
+  }
 }

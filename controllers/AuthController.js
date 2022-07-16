@@ -1,6 +1,5 @@
 const query = require("../configDB")
 const jwt = require("jsonwebtoken");
-const { param } = require("../routers/auth");
 require("dotenv").config();
 
 class AuthController {
